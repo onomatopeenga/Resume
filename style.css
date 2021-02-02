@@ -8,9 +8,9 @@
 body{
 
   background-image: url(images/bg2.png);
-  background-size: repeat;
+  background-size: repeat-y;
   font-family: 'Arvo', serif;
-  color: white;
+
 }
 
 a, p{
@@ -253,7 +253,7 @@ margin-right: 20px;
 
 .footer{
 
-  background-color: #090200;
+  background-color: #ffffff;
   height: 250px;
   max-width: 100%;
 }
